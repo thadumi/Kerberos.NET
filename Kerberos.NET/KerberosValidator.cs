@@ -5,7 +5,6 @@
 
 using System;
 using System.Globalization;
-using System.Runtime.Versioning;
 using System.Security;
 using System.Text;
 using System.Threading.Tasks;
